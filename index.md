@@ -1,3 +1,3 @@
-# Welcome: this is a test site for learning
+# Welcome: testing -- this is from index
 
-this is a test
+contents of the index.md file ...blah, blah, blah.
